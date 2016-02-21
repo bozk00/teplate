@@ -1,0 +1,56 @@
+body {
+	font-family: Raleway;
+}
+
+nav ul li{
+	display: inline-block;
+}
+nav{
+	font-size: 30px;
+	background: #105B63;
+	padding: 10px;
+	border-radius: 20px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+section{
+	margin: auto;
+	padding: 10%
+	width: 70%;
+}
+aside{
+	float: left;
+	width: 30%;
+	text-align: center;
+}
+article{
+	float: right;
+	width: 70%;
+}
+
+.robin {
+	width: 200px;
+}
+blockquote{
+	background: #BD4932;
+	color: #FFFAD5;
+	padding: 10px;
+	border-radius: 20px;
+}
+h1{
+	color: #BD4932;
+	font-size: 20px;
+}
+h2{
+	color: gray;
+}
+p{
+	color: gray;
+}
+footer{
+	position: fixed;
+	bottom: 0;
+	color: gray;
+}
